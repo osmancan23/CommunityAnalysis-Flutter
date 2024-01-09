@@ -34,7 +34,7 @@ class _MyAppState extends State<HomeView> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Community Analysis App'),
+        title: const Text('Person Analysis App'),
       ),
       body: _loading
           ? Container(

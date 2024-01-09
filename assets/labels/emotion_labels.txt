@@ -1,5 +1,4 @@
-0 Happy
-1 Sad
-2 Angry
-3 Cry
-4 Normally
+0 Mutlu
+1 Üzgün
+2 Sinirli
+3 Normal
